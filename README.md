@@ -1,6 +1,6 @@
-## <center>**WA Lazy - WALIX</center>
+## <center>**SIM POS</center>
 
-**WA Lazy** WA Lazy is a whatsapp gateway application that allows us to send whatsapp messages through the website, using Api. there are several other features in WA Lazy such as Broadcast, Campaign, Rest Api, Auto Responder
+**WA Lazy**SIMP POS as the final project of my studies in Diploma Three Information Systems. build a receivables monitoring system for KCU POS Bogor 16000. Using Laravel, API and MySQL.
 <br>
 
 ```php
